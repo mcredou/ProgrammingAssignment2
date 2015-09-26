@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Matrix Inversion function for COURSERA - R Programming - WEEK 3 - Assignment2
 
 ## This function creates a special "matrix" object that can cache its inverse.
 
